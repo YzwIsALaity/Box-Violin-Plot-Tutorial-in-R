@@ -13,7 +13,7 @@ The dataset is a record of the level of biomarker for a disease and patients in 
 
 - `Sex`: a variable for sex of participants (string).
 
-![](/Users/yongzhewang/Desktop/Box Plot & Violin Plot/Dataset_Shape.jpeg)
+![](https://github.com/YzwIsALaity/Box-Violin-Plot-Tutorial-in-R/blob/042bda2d9a9dee966d39cdfbc937b63c2de91855/Dataset_Shape.jpeg)
 
 A __box plot__ is often used to __show the empirical distribution of a numerical covariate regarding different groups__. Usually, there are two main methods to visualize the empirical distribution of the data:
 
@@ -50,7 +50,7 @@ ggplot(Dt, aes(x = Illness, y = Biomarker)) +
         legend.title = element_text(colour = "black", size = 11, face = 'bold')) 
 ```
 
-![](/Users/yongzhewang/Desktop/Box Plot & Violin Plot/p1.jpeg)
+![](https://github.com/YzwIsALaity/Box-Violin-Plot-Tutorial-in-R/blob/042bda2d9a9dee966d39cdfbc937b63c2de91855/p1.jpeg)
 
 In Version 0.0, we just show boxes for `Illness` groups and do not stratified them into `Sex`, which provides a general visualization of numerical biomarker levels regarding different `Illness` groups. 
 
@@ -80,7 +80,7 @@ ggplot(Dt, aes(x = Illness, y = Biomarker, fill = Sex)) +
         legend.title = element_text(colour = "black", size = 11, face = 'bold')) 
 ```
 
-![](/Users/yongzhewang/Desktop/Box Plot & Violin Plot/p2.jpeg)
+![](https://github.com/YzwIsALaity/Box-Violin-Plot-Tutorial-in-R/blob/042bda2d9a9dee966d39cdfbc937b63c2de91855/p2.jpeg)
 
 This is the grouped version of a box plot based on Version 0.0. The above two versions are the most basic type of box plots and __if you want to show the box horizontally, you just need to shift X-axis and Y-axis__. In the next example, we will integrate a box plot with hypothesis testing together.
 
@@ -122,7 +122,7 @@ ggplot(Dt, aes(x = Illness, y = Biomarker, fill = Sex)) +
         legend.title = element_text(colour = "black", size = 11, face = 'bold')) 
 ```
 
-![](/Users/yongzhewang/Desktop/Box Plot & Violin Plot/p3.jpeg)
+![](https://github.com/YzwIsALaity/Box-Violin-Plot-Tutorial-in-R/blob/042bda2d9a9dee966d39cdfbc937b63c2de91855/p3.jpeg)
 
 Therefore, it is very easy to integrate a box plot with hypothesis testing! Then, we are going to the final stage of box plot.
 
@@ -160,7 +160,7 @@ ggplot(Dt, aes(x = Illness, y = Biomarker)) +
         legend.title = element_text(colour = "black", size = 11, face = 'bold')) 
 ```
 
-![](/Users/yongzhewang/Desktop/Box Plot & Violin Plot/p4.jpeg)
+![](https://github.com/YzwIsALaity/Box-Violin-Plot-Tutorial-in-R/blob/042bda2d9a9dee966d39cdfbc937b63c2de91855/p4.jpeg)
 
 The second example of a violin plot is based on Version 2.0. __Due to the overlapped of violins and boxes, we need to adjust their overlapped position and we will use one more arguments in both `geom_violin()` and `geom_boxplot()`--`position`. We will set `position = position_dodge()` and pass any some numerical values into `position_dodge()`. `position_dodge()` is used to control the horizontal distance between two groups. Finally, we need to make sure `geom_violin()` and `geom_boxplot()` share the same `position`.__
 
@@ -193,7 +193,7 @@ ggplot(Dt, aes(x = Illness, y = Biomarker, fill = Sex)) +
         legend.title = element_text(colour = "black", size = 11, face = 'bold')) 
 ```
 
-![](/Users/yongzhewang/Desktop/Box Plot & Violin Plot/p5.jpeg)
+![](https://github.com/YzwIsALaity/Box-Violin-Plot-Tutorial-in-R/blob/042bda2d9a9dee966d39cdfbc937b63c2de91855/p5.jpeg)
 
 Eventually, we can get a fancy violin plot with a plain box plot and hypothesis testing! We can also make them horizontally and this just need to exchange a variable in X-axis with a variable in Y-axis as well. 
 
