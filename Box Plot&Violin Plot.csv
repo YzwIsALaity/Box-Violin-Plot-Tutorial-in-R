@@ -1,0 +1,401 @@
+PTID,Illness,Biomarker,Sex
+HC1,Healthy Control,2.756,Female
+HC2,Healthy Control,2.041,Female
+HC3,Healthy Control,2.284,Female
+HC4,Healthy Control,1.488,Male
+HC5,Healthy Control,2.162,Male
+HC6,Healthy Control,2.522,Female
+HC7,Healthy Control,2.05,Male
+HC8,Healthy Control,1.773,Female
+HC9,Healthy Control,1.672,Female
+HC10,Healthy Control,1.982,Male
+HC11,Healthy Control,2.535,Female
+HC12,Healthy Control,1.758,Female
+HC13,Healthy Control,1.939,Male
+HC14,Healthy Control,1.353,Female
+HC15,Healthy Control,2.247,Male
+HC16,Healthy Control,2.654,Female
+HC17,Healthy Control,2.749,Male
+HC18,Healthy Control,2.407,Male
+HC19,Healthy Control,1.065,Female
+HC20,Healthy Control,2.241,Female
+HC21,Healthy Control,2.228,Male
+HC22,Healthy Control,1.823,Female
+HC23,Healthy Control,2.085,Male
+HC24,Healthy Control,1.568,Male
+HC25,Healthy Control,2.34,Female
+HC26,Healthy Control,1.836,Female
+HC27,Healthy Control,1.215,Male
+HC28,Healthy Control,1.816,Male
+HC29,Healthy Control,2.682,Male
+HC30,Healthy Control,1.833,Male
+HC31,Healthy Control,2.366,Female
+HC32,Healthy Control,2.473,Male
+HC33,Healthy Control,2.002,Female
+HC34,Healthy Control,1.824,Female
+HC35,Healthy Control,1.735,Male
+HC36,Healthy Control,2.37,Female
+HC37,Healthy Control,1.468,Female
+HC38,Healthy Control,2.123,Female
+HC39,Healthy Control,1.855,Female
+HC40,Healthy Control,1.296,Male
+HC41,Healthy Control,2.458,Male
+HC42,Healthy Control,1.904,Male
+HC43,Healthy Control,2.402,Female
+HC44,Healthy Control,2.944,Male
+HC45,Healthy Control,2.737,Male
+HC46,Healthy Control,2.339,Male
+HC47,Healthy Control,2.19,Female
+HC48,Healthy Control,1.904,Female
+HC49,Healthy Control,2.789,Male
+HC50,Healthy Control,2.298,Male
+HC51,Healthy Control,3.413,Female
+HC52,Healthy Control,3.922,Male
+HC53,Healthy Control,3.041,Female
+HC54,Healthy Control,3.902,Male
+HC55,Healthy Control,2.704,Male
+HC56,Healthy Control,4.657,Female
+HC57,Healthy Control,3.682,Male
+HC58,Healthy Control,3.785,Female
+HC59,Healthy Control,3.915,Male
+HC60,Healthy Control,4.306,Male
+HC61,Healthy Control,4.339,Female
+HC62,Healthy Control,4.284,Male
+HC63,Healthy Control,3.714,Female
+HC64,Healthy Control,3.318,Female
+HC65,Healthy Control,3.806,Female
+HC66,Healthy Control,4.139,Male
+HC67,Healthy Control,3.588,Female
+HC68,Healthy Control,3.966,Female
+HC69,Healthy Control,3.416,Male
+HC70,Healthy Control,3.996,Female
+HC71,Healthy Control,4.064,Male
+HC72,Healthy Control,3.927,Female
+HC73,Healthy Control,3.918,Female
+HC74,Healthy Control,4.882,Female
+HC75,Healthy Control,4.381,Male
+HC76,Healthy Control,4.556,Female
+HC77,Healthy Control,3.538,Female
+HC78,Healthy Control,4.082,Female
+HC79,Healthy Control,4.577,Female
+HC80,Healthy Control,3.972,Female
+HC81,Healthy Control,2.935,Male
+HC82,Healthy Control,4.172,Male
+HC83,Healthy Control,3.048,Female
+HC84,Healthy Control,3.594,Female
+HC85,Healthy Control,4.662,Male
+HC86,Healthy Control,4.308,Female
+HC87,Healthy Control,4.546,Female
+HC88,Healthy Control,4.153,Female
+HC89,Healthy Control,3.945,Female
+HC90,Healthy Control,3.538,Male
+HC91,Healthy Control,4.796,Male
+HC92,Healthy Control,4.023,Female
+HC93,Healthy Control,3.642,Male
+HC94,Healthy Control,4.433,Male
+HC95,Healthy Control,4.537,Female
+HC96,Healthy Control,4.948,Male
+HC97,Healthy Control,3.699,Female
+HC98,Healthy Control,3.805,Male
+HC99,Healthy Control,3.792,Male
+HC100,Healthy Control,3.812,Male
+O1,Moderate,1,Female
+O2,Moderate,6,Male
+O3,Moderate,7,Female
+O4,Moderate,5,Male
+O5,Moderate,4,Female
+O6,Moderate,6,Female
+O7,Moderate,4,Female
+O8,Moderate,7,Male
+O9,Moderate,2,Female
+O10,Moderate,7,Male
+O11,Moderate,5,Female
+O12,Moderate,7,Male
+O13,Moderate,6,Male
+O14,Moderate,8,Male
+O15,Moderate,4,Male
+O16,Moderate,5,Male
+O17,Moderate,4,Male
+O18,Moderate,4,Male
+O19,Moderate,7,Female
+O20,Moderate,2,Male
+O21,Moderate,4,Male
+O22,Moderate,4,Female
+O23,Moderate,4,Male
+O24,Moderate,3,Female
+O25,Moderate,4,Male
+O26,Moderate,6,Female
+O27,Moderate,7,Female
+O28,Moderate,4,Female
+O29,Moderate,3,Female
+O30,Moderate,4,Male
+O31,Moderate,7,Male
+O32,Moderate,3,Female
+O33,Moderate,7,Female
+O34,Moderate,5,Female
+O35,Moderate,4,Female
+O36,Moderate,4,Female
+O37,Moderate,7,Male
+O38,Moderate,2,Male
+O39,Moderate,7,Male
+O40,Moderate,2,Male
+O41,Moderate,6,Female
+O42,Moderate,7,Female
+O43,Moderate,10,Female
+O44,Moderate,3,Female
+O45,Moderate,1,Male
+O46,Moderate,3,Male
+O47,Moderate,2,Male
+O48,Moderate,4,Female
+O49,Moderate,2,Female
+O50,Moderate,4,Female
+O51,Moderate,5,Male
+O52,Moderate,4,Male
+O53,Moderate,9,Female
+O54,Moderate,4,Female
+O55,Moderate,9,Female
+O56,Moderate,4,Female
+O57,Moderate,6,Female
+O58,Moderate,3,Female
+O59,Moderate,7,Female
+O60,Moderate,7,Male
+O61,Moderate,5,Female
+O62,Moderate,5,Female
+O63,Moderate,6,Female
+O64,Moderate,2,Male
+O65,Moderate,6,Male
+O66,Moderate,7,Female
+O67,Moderate,3,Male
+O68,Moderate,2,Male
+O69,Moderate,4,Male
+O70,Moderate,4,Male
+O71,Moderate,5,Male
+O72,Moderate,4,Female
+O73,Moderate,8,Male
+O74,Moderate,3,Male
+O75,Moderate,3,Male
+O76,Moderate,5,Male
+O77,Moderate,1,Male
+O78,Moderate,2,Female
+O79,Moderate,7,Male
+O80,Moderate,9,Male
+O81,Moderate,3,Male
+O82,Moderate,6,Male
+O83,Moderate,4,Male
+O84,Moderate,9,Female
+O85,Moderate,7,Female
+O86,Moderate,6,Male
+O87,Moderate,3,Male
+O88,Moderate,2,Male
+O89,Moderate,4,Female
+O90,Moderate,6,Male
+O91,Moderate,9,Male
+O92,Moderate,6,Female
+O93,Moderate,6,Male
+O94,Moderate,7,Female
+O95,Moderate,6,Female
+O96,Moderate,7,Male
+O97,Moderate,5,Female
+O98,Moderate,6,Female
+O99,Moderate,3,Female
+O100,Moderate,6,Female
+O101,Mild,1.109,Female
+O102,Mild,1.267,Female
+O103,Mild,0.85,Female
+O104,Mild,4.608,Male
+O105,Mild,1.727,Female
+O106,Mild,0.426,Male
+O107,Mild,1.889,Female
+O108,Mild,2.717,Male
+O109,Mild,3.935,Male
+O110,Mild,1.602,Male
+O111,Mild,4.19,Female
+O112,Mild,4.992,Male
+O113,Mild,1.067,Male
+O114,Mild,2.186,Male
+O115,Mild,1.894,Male
+O116,Mild,4.828,Female
+O117,Mild,3.206,Female
+O118,Mild,4.031,Male
+O119,Mild,4.595,Male
+O120,Mild,0.293,Female
+O121,Mild,2.388,Male
+O122,Mild,3.484,Female
+O123,Mild,0.223,Female
+O124,Mild,3.784,Male
+O125,Mild,2.958,Female
+O126,Mild,2.551,Male
+O127,Mild,2.263,Female
+O128,Mild,0.127,Male
+O129,Mild,4.809,Female
+O130,Mild,4.938,Female
+O131,Mild,3.172,Male
+O132,Mild,2.128,Male
+O133,Mild,1.333,Male
+O134,Mild,0.403,Female
+O135,Mild,1.651,Male
+O136,Mild,4.47,Female
+O137,Mild,1.533,Male
+O138,Mild,2.012,Female
+O139,Mild,2.869,Male
+O140,Mild,2.985,Male
+O141,Mild,2.85,Male
+O142,Mild,1.09,Male
+O143,Mild,4.101,Female
+O144,Mild,0.183,Male
+O145,Mild,3.128,Male
+O146,Mild,2.167,Female
+O147,Mild,1.785,Male
+O148,Mild,3.868,Male
+O149,Mild,0.867,Female
+O150,Mild,2.466,Male
+O151,Mild,3.686,Male
+O152,Mild,2.555,Male
+O153,Mild,2.375,Male
+O154,Mild,2.939,Male
+O155,Mild,2.863,Female
+O156,Mild,3.275,Male
+O157,Mild,4.326,Female
+O158,Mild,1.984,Male
+O159,Mild,4.801,Male
+O160,Mild,1.904,Male
+O161,Mild,0.85,Female
+O162,Mild,1.158,Female
+O163,Mild,4.75,Male
+O164,Mild,0.418,Female
+O165,Mild,0.965,Female
+O166,Mild,0.373,Female
+O167,Mild,3.025,Male
+O168,Mild,1.079,Male
+O169,Mild,2.94,Male
+O170,Mild,1.144,Female
+O171,Mild,1.955,Female
+O172,Mild,1.74,Female
+O173,Mild,4.592,Male
+O174,Mild,0.56,Male
+O175,Mild,1.275,Female
+O176,Mild,0.933,Male
+O177,Mild,3.728,Female
+O178,Mild,4.665,Female
+O179,Mild,2.474,Female
+O180,Mild,3.225,Female
+O181,Mild,0.879,Male
+O182,Mild,3.015,Female
+O183,Mild,4.439,Female
+O184,Mild,2.451,Female
+O185,Mild,0.092,Male
+O186,Mild,0.897,Female
+O187,Mild,1.497,Female
+O188,Mild,1.385,Male
+O189,Mild,0.308,Male
+O190,Mild,1.777,Male
+O191,Mild,2.885,Female
+O192,Mild,2.675,Female
+O193,Mild,3.021,Male
+O194,Mild,2.431,Male
+O195,Mild,0.658,Male
+O196,Mild,4.823,Male
+O197,Mild,3.712,Male
+O198,Mild,1.834,Female
+O199,Mild,0.754,Female
+O200,Mild,1.135,Male
+I1,Severe,7.006,Male
+I2,Severe,6.915,Female
+I3,Severe,7.951,Female
+I4,Severe,8.576,Female
+I5,Severe,8.074,Male
+I6,Severe,8.706,Female
+I7,Severe,8.335,Female
+I8,Severe,8.545,Male
+I9,Severe,6.597,Male
+I10,Severe,8.677,Male
+I11,Severe,7.21,Female
+I12,Severe,7.534,Female
+I13,Severe,7.895,Male
+I14,Severe,6.352,Male
+I15,Severe,7.9,Male
+I16,Severe,7.56,Male
+I17,Severe,7.281,Female
+I18,Severe,7.445,Female
+I19,Severe,9.245,Male
+I20,Severe,6.741,Female
+I21,Severe,7.785,Female
+I22,Severe,5.528,Female
+I23,Severe,7.326,Female
+I24,Severe,7.499,Female
+I25,Severe,9.542,Female
+I26,Severe,7.038,Male
+I27,Severe,7.128,Male
+I28,Severe,6.602,Male
+I29,Severe,8.18,Male
+I30,Severe,9.154,Male
+I31,Severe,6.801,Male
+I32,Severe,7.574,Female
+I33,Severe,9.366,Female
+I34,Severe,7.316,Female
+I35,Severe,8.686,Female
+I36,Severe,8.39,Male
+I37,Severe,6.695,Female
+I38,Severe,9.217,Male
+I39,Severe,8.795,Female
+I40,Severe,7.512,Male
+I41,Severe,7.096,Male
+I42,Severe,7.61,Male
+I43,Severe,8.814,Female
+I44,Severe,7.436,Male
+I45,Severe,6.126,Male
+I46,Severe,7.857,Male
+I47,Severe,8.772,Female
+I48,Severe,6.841,Female
+I49,Severe,7.762,Male
+I50,Severe,6.778,Male
+I51,Severe,8.117,Male
+I52,Severe,7.868,Female
+I53,Severe,7.966,Male
+I54,Severe,7.378,Male
+I55,Severe,7.291,Female
+I56,Severe,8.871,Male
+I57,Severe,8.105,Female
+I58,Severe,7.813,Female
+I59,Severe,4.787,Female
+I60,Severe,6.724,Female
+I61,Severe,8.763,Male
+I62,Severe,7.593,Female
+I63,Severe,6.792,Female
+I64,Severe,7.561,Male
+I65,Severe,7.624,Female
+I66,Severe,7.499,Female
+I67,Severe,8.497,Female
+I68,Severe,9.521,Male
+I69,Severe,8.988,Female
+I70,Severe,9.246,Female
+I71,Severe,7.67,Male
+I72,Severe,8.844,Female
+I73,Severe,7.019,Male
+I74,Severe,7.861,Male
+I75,Severe,10.185,Male
+I76,Severe,7.987,Female
+I77,Severe,7.695,Female
+I78,Severe,7.416,Male
+I79,Severe,8.771,Male
+I80,Severe,10.106,Female
+I81,Severe,8.412,Female
+I82,Severe,7.739,Male
+I83,Severe,10.074,Male
+I84,Severe,7.221,Male
+I85,Severe,9.132,Male
+I86,Severe,7.579,Male
+I87,Severe,6.978,Female
+I88,Severe,9.218,Male
+I89,Severe,6.2,Female
+I90,Severe,7.692,Female
+I91,Severe,8.016,Female
+I92,Severe,7.558,Male
+I93,Severe,6.362,Male
+I94,Severe,7.359,Female
+I95,Severe,6.443,Male
+I96,Severe,9.923,Male
+I97,Severe,6.143,Male
+I98,Severe,5.894,Female
+I99,Severe,8.698,Male
+I100,Severe,8.907,Male
